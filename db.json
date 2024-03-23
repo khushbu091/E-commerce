@@ -1,0 +1,61 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "password": "rahul123"
+    },
+    {
+      "id": "2",
+      "name": "manju",
+      "email": "rahul444@gmail.com",
+      "password": "rahul123"
+    },
+    {
+      "id": "3",
+      "name": "sanju",
+      "email": "rahul888@gmail.com",
+      "password": "rahul123"
+    },
+    {
+      "id": "4",
+      "name": "avni",
+      "email": "avni@gmail.com",
+      "password": "anu12"
+    },
+    {
+      "id": "c28a",
+      "name": "khui",
+      "email": "khushi@gmail.com",
+      "password": "789"
+    },
+    {
+      "id": "f57f",
+      "name": "qasim",
+      "email": "mq@gmial.com",
+      "password": "123"
+    },
+    {
+      "id": "5b23",
+      "name": "amisha",
+      "email": "amisha@gmail.com",
+      "password": "ami12"
+    },
+    {
+      "id": "a8ef",
+      "name": "khushi",
+      "email": "khushi@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "662b"
+    },
+    {
+      "id": "f076",
+      "name": "zjhfjedhf",
+      "email": "dbfhj@gmail.com",
+      "password": "123"
+    }
+  ]
+}
